@@ -34,3 +34,5 @@ int main(void)
   return (0);
 }
 ```
+![Mona the Octocat](https://github.com/fetraand/skills-communicate-using-markdown/blob/start-blog/Capture%20d%E2%80%99%C3%A9cran%20du%202026-08-11%2011-35-00.png)
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
